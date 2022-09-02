@@ -5,6 +5,6 @@
   // Source Code
     #include <stdio.h>
     int main(){
-	    printf("Welcome to github\n");
+	    printf("Welcome to Github\n");
       return 0;
     }
